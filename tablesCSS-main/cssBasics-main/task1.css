@@ -1,0 +1,13 @@
+
+th{
+    color: white;
+    background-color:  #427fef;
+}
+.table{
+    border-style: solid;
+    border-color: #c4dcf3;
+}
+tr:nth-child(odd){
+    background-color: coral;
+}
+/*It took me about 45 minutes to complete this task. The work on the html was very tedious. */
